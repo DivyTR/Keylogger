@@ -25,7 +25,7 @@ Keystroke Logging: Captures all keystrokes entered by the user.
 
 4. To stop the keylogger, press the cancel key specified during setup.
 
-5. The captured keystrokes will be stored in a log file (`keylog.txt`), and the screenshots will be saved in the `screenshots` directory.
+5. The captured keystrokes will be stored in a log file in the Desktop and the screenshots will be saved in the same directory as png images
 
 ## Contribution
 
